@@ -1,7 +1,7 @@
 # Proyecto-de-Final-IA
 
-## Nombre
+## Miguel Angel Jimenez
 
-## Matrícula
+## 23-EISN-2-010
 
-## Proyecto
+## Comparador de Imagenes con Inteligencia Artificial
